@@ -43,9 +43,9 @@ This English translation patch borrows assets and code from the English-language
 <img align="right" width="267" height="200" src="https://github.com/DerekPascarella/VirtuaCop2-EnglishPatchDreamcast/blob/main/screenshot.png?raw=true">Below is a high-level list of changes implemented for this English translation patch.
 <br><br>
 <ul>
- <li>All information and status messages appear in English.</li>
- <li>All stage title screens appear in English.</li>
+ <li>All VMU save/load messages appear in English.</li>
  <li>All on-screen helper/tutorial text appears in English.</li>
+ <li>All stage title screens appear in English.</li>
  <li>VMU save file metadata appears in English.</li>
 </ul>
 
