@@ -14,6 +14,7 @@ This English translation patch borrows assets and code from the English-language
 2. [Credits](#credits)
 3. [Release Changelog](#release-changelog)
 4. [What's Changed](#whats-changed)
+5. [Roadmap](#roadmap)
 
 <h2>Patching Instructions</h2>
 <ul>
@@ -46,4 +47,9 @@ This English translation patch borrows assets and code from the English-language
  <li>All stage title screens appear in English.</li>
  <li>All on-screen helper/tutorial text appears in English.</li>
  <li>VMU save file metadata appears in English.</li>
+</ul>
+
+<h2>Roadmap</h2>
+<ul>
+ <li>Implement CDI patch for users burning to CD-R. Due to the nature of Windows CE Dreamcast games, special challenges are presented when attempting to build a CDI for such a game when it utilizes CDDA, like "Virtua Cop 2".</li>
 </ul>
