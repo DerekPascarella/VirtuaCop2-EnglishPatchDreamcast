@@ -33,7 +33,7 @@ This English translation patch borrows assets and code from the English-language
 
 <h2>Release Changelog</h2>
 <ul>
- <li>Version 1.0 (2024-05-23)</li>
+ <li><b>Version 1.0 (2024-05-23)</b></li>
  <ul>
   <li>Initial release.</li>
  </ul>
