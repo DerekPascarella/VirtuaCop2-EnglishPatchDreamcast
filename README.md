@@ -2,7 +2,7 @@
 <img width="165" height="165" align="right" src="https://github.com/DerekPascarella/VirtuaCop2-EnglishPatchDreamcast/blob/main/cover.png?raw=true">Download the English translation patch (more information in the <a href="#patching-instructions">Patching Instructions</a> section):
 <br><br>
 <ul>
- <li><b>GDI Format (Users of ODEs or Emulators)</b><br>Download <a href="https://github.com/DerekPascarella/VirtuaCop2-EnglishPatchDreamcast/releases/download/1.0/Virtua.Cop.2.English.v1.0.dcp">Virtua Cop 2 (English v1.0).dcp</a> for use with <a href="https://github.com/DerekPascarella/UniversalDreamcastPatcher">Universal Dreamcast Patcher</a> v1.3 or newer.</li>
+ <li><b>GDI Format (Users of ODEs or Emulators)</b><br>Download <a href="https://github.com/DerekPascarella/VirtuaCop2-EnglishPatchDreamcast/releases/download/1.1/Virtua.Cop.2.English.v1.1.dcp">Virtua Cop 2 (English v1.1).dcp</a> for use with <a href="https://github.com/DerekPascarella/UniversalDreamcastPatcher">Universal Dreamcast Patcher</a> v1.3 or newer.</li>
  <!--<br>
  <li><b>CDI Format (Users Burning to CD-R)</b><br>Download <a href="">Virtua Cop 2 (English v1.0).xdelta</a> for use with <a href="https://www.romhacking.net/utilities/704/">Delta Patcher</a> (or equivalent tools).</li>-->
 </ul>
@@ -33,6 +33,11 @@ This English translation patch borrows assets and code from the English-language
 
 <h2>Release Changelog</h2>
 <ul>
+ <li><b>Version 1.0 (2026-09-25)</b></li>
+ <ul>
+  <li>Game no longer runs in 50hz on PAL consoles when not using VGA (see <a href="https://github.com/DerekPascarella/VirtuaCop2-EnglishPatchDreamcast/issues/1">Issue 1</a>).</li>
+  <li>Audio pop after some sound effects no longer occurs (thank you Rampage_seven and pipporamone for playtesting).</li>
+ </ul>
  <li><b>Version 1.0 (2024-05-23)</b></li>
  <ul>
   <li>Initial release.</li>
