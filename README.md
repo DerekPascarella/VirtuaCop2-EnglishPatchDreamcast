@@ -52,6 +52,8 @@ This English translation patch borrows assets and code from the English-language
  <li>All on-screen helper/tutorial text appears in English.</li>
  <li>All stage title screens appear in English.</li>
  <li>VMU save file metadata appears in English.</li>
+ <li>Game runs in 60hz on PAL consoles even without VGA.</li>
+ <li>Audio popping at the end of many sound effects no longer occurs.</li>
 </ul>
 
 <h2>Roadmap</h2>
