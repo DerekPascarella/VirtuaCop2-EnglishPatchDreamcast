@@ -33,7 +33,7 @@ This English translation patch borrows assets and code from the English-language
 
 <h2>Release Changelog</h2>
 <ul>
- <li><b>Version 1.0 (2026-09-25)</b></li>
+ <li><b>Version 1.1 (2026-09-25)</b></li>
  <ul>
   <li>Game no longer runs in 50hz on PAL consoles when not using VGA (see <a href="https://github.com/DerekPascarella/VirtuaCop2-EnglishPatchDreamcast/issues/1">Issue 1</a>).</li>
   <li>Audio pop after some sound effects no longer occurs (thank you Rampage_seven and pipporamone for playtesting).</li>
